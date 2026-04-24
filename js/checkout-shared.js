@@ -1,16 +1,16 @@
 const baseLinks = {
-    up1: "https://pay.pag-certo.online/c/dd831a0e-7e80-48bc-8f63-7631232e5c63", // Verifique
-    up2: "https://pay.pag-certo.online/c/7d81e609-f20b-441e-9797-8e41f484df90", // Prossiga
-    up3: "https://pay.pag-certo.online/c/3a6d1f2c-e296-4428-b0e3-e62c1199baad", // Cadastro
-    up4: "https://pay.pag-certo.online/c/08b00c87-e8a2-4921-8273-1921ba1bce4b", // Pendente
-    up5: "https://pay.pag-certo.online/c/ef405c69-e8b7-455d-b77d-acc5fb620177", // Ativar Conta
-    up6: "https://pay.pag-certo.online/c/ecdf1577-6883-40fd-9f32-b9e71ca36823", // Registro
-    up7: "https://pay.pag-certo.online/c/df4a9426-d0a1-4da3-a6b3-0a12d501a4d5", // Acréscimo
-    up8: "https://pay.pag-certo.online/c/012fe7fa-6339-4bbe-8120-16c4abbb4c7e", // Documento
-    up9: "https://pay.pag-certo.online/c/80d5144f-7fce-4c07-8953-7b8e288a1070", // Aplicativo
-    up10:"https://pay.pag-certo.online/c/2ac9daf1-beeb-4b73-969a-879dd8273cfc", // Abertura
-    up11:"https://pay.pag-certo.online/c/b0368ea3-a985-4a23-9f4d-530aa9a395d1", // Consultoria
-    up12:"https://pay.pag-certo.online/c/4d8133f1-7753-44fd-afaa-65dee1344499"  // Administrativo
+    up1: "https://pay.transacaoseguraemprestimosuper.online/c/32370d72-8e10-402f-bff5-32747e6e5f87", // Verifique
+    up2: "https://pay.transacaoseguraemprestimosuper.online/c/48cce762-8266-4f92-ac12-da4570ca303a", // Prossiga
+    up3: "https://pay.transacaoseguraemprestimosuper.online/c/a056b8f9-b857-4975-b969-4557b4139e22", // Cadastro
+    up4: "https://pay.transacaoseguraemprestimosuper.online/c/df718561-8fbf-4bc1-912b-1055d1f272f8", // Pendente
+    up5: "https://pay.transacaoseguraemprestimosuper.online/c/b40a9888-d840-4006-9657-8700efe31db2", // Ativar Conta
+    up6: "https://pay.transacaoseguraemprestimosuper.online/c/78c5d367-c4f9-463d-9a62-89e6b71972e0", // Registro
+    up7: "https://pay.transacaoseguraemprestimosuper.online/c/262eb8f3-6f66-4e52-abfb-5bd82c84fef3", // Acréscimo
+    up8: "https://pay.transacaoseguraemprestimosuper.online/c/6a344b8d-6ca1-4652-8fd1-f47f82970ff0", // Documento
+    up9: "https://pay.transacaoseguraemprestimosuper.online/c/97059442-7166-4a47-9c23-e0340dc3fe33", // Aplicativo
+    up10:"https://pay.transacaoseguraemprestimosuper.online/c/30f3c78b-7f35-4ed9-8d46-83784cc574bf", // Abertura
+    up11:"https://pay.transacaoseguraemprestimosuper.online/c/6a3848f5-25f5-4311-a17b-fbdaa71efea1", // Consultoria
+    up12:"https://pay.transacaoseguraemprestimosuper.online/c/32370d72-8e10-402f-bff5-32747e6e5f87"  // Administrativo
 };
 
 function redirect(key) {
